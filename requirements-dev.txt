@@ -1,0 +1,5 @@
+# Lightweight set used by CI (TensorFlow-dependent tests skip themselves)
+numpy
+pillow
+pytest
+ruff
